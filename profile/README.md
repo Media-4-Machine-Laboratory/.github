@@ -7,6 +7,9 @@
         <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> On-going Project </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> 2023, Analysis of reference software for Video Coding for Machines (VCM)</li><li> 2023, Develop & standardization of scene description for metaverse</li> </div> 
+            <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Recent Publication </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> [2022 IEEE Transactions on Multimedia]Dynamic Residual Filtering with Laplacian Pyramid for Instance Segmentation</li><li> [2022 ETRI Journal]View synthesis with sparse light field for 6DoF immersive video</li> </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
