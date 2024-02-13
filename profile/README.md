@@ -12,7 +12,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> [2022 IEEE Transactions on Multimedia]Dynamic Residual Filtering with Laplacian Pyramid for Instance Segmentation</li><li> [2022 ETRI Journal]View synthesis with sparse light field for 6DoF immersive video</li> </div> 
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  M4ML site </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  M4ML site </h2>
     <div style="text-align: left;"> <a href=https://sites.google.com/donga.ac.kr/m4ml> <img src="https://img.shields.io/badge/M4ML-336699?style=flat&logo=librarything&logoColor=cccccc&link=https://sites.google.com/donga.ac.kr/m4ml"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
