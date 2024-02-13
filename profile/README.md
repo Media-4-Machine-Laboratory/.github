@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9d3e0,100:&height=180&text=welcome%20to%20Media for Machine lab's%20GitHub&animation=twinkling&fontColor=f1ecff&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9d3e0,100:&height=180&text=welcome%20to%20Media%20for%20Machine%20Lab's%20GitHub&animation=twinkling&fontColor=f1ecff&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨Cho subin✨ </h2>  
