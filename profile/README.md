@@ -19,8 +19,16 @@
 </div>  <br> 
 <div style="text-align: left;">  </div> 
 </div>-->
+<!--<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  Contact </h2>
+<div style="text-align: left;"> <a href=https://sites.google.com/donga.ac.kr/m4ml> <img src="https://img.shields.io/badge/M4ML-336699?style=flat&logo=librarything&logoColor=cccccc&link=https://sites.google.com/donga.ac.kr/m4ml"> </a>
+</div>  <br> 
+<div style="text-align: left;">  </div> 
+</div>-->
     
 ## Contact 
 <div style="display:flex; flex-direction:row;">
-   <img src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-squaare&logo=Gmail&logoColor=white"/>
-</div><br>
+    <a href="mailto:jeongilseo@dau.ac.kr"><img src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-squaare&logo=Gmail&logoColor=white"/>
+    <a href=http://m4ml.re.kr> <img src="https://img.shields.io/badge/M4ML-336699?style=flat&logo=librarything&logoColor=cccccc&link=https://sites.google.com/donga.ac.kr/m4ml"> </a>
+</div>
+
+<br>
