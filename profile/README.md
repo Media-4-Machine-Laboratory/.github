@@ -27,7 +27,7 @@
     
 ## Contact 
 <div style="display:flex; flex-direction:row;">
-    <a href="mailto:jeongilseo@dau.ac.kr"><img src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-squaare&logo=Gmail&logoColor=white"/>
+    <a href="mailto:jeongilseo@dau.ac.kr"><img src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-squaare&logo=Gmail&logoColor=white"/></a>
     <a href=http://m4ml.re.kr> <img src="https://img.shields.io/badge/M4ML-336699?style=flat&logo=librarything&logoColor=cccccc&link=https://sites.google.com/donga.ac.kr/m4ml"> </a>
 </div>
 
